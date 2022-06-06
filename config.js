@@ -4,6 +4,7 @@
 
 // - - THANKS TO - -
 // • Allah SWT
+// • Tisu Demon
 // • Nurutomo
 // • Bochilgaming
 // • Rominaru
@@ -44,33 +45,33 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/ppiowy_'
-global.sgh = 'https://github.com/kannachann'
-global.sgc = 'https://chat.whatsapp.com/EawZW6vp8gwG4uGt0r4Awa'
-global.sdc = 'https://discord.gg/WEJQjugTY7'
+global.sig  ='https://instagram.com/__.iam_akshay.__?igshid=YmMyMTA2M2Y='
+global.sgh = 'https://github.com/4K5H475ER'
+global.sgc = 'https://chat.whatsapp.com/Idb23y8zNaGIOIfbRUBnm6'
+global.sdc = 'https://discord.gg'
 global.snh = 'https://nhentai.net/g/365296/'
 
 /*============== PAYMENT ==============*/
-global.pdana = '085712420674'
-global.povo = '085712420674'
-global.pgopay = '085712420674'
-global.ppulsa = '085712420674'
-global.ppulsa2 = '083143393763'
-global.psaweria = 'https://saweria.com/kannabotz'
+global.pdana = '1807770766'
+global.povo = '1807770766'
+global.pgopay = '1807770766'
+global.ppulsa = '1807770766'
+global.ppulsa2 = '1807770766'
+global.psaweria = 'https://saweria.com'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6283143393763'
-global.nomorown = '62831433937633'
+global.nomorbot = '1807770766'
+global.nomorown = '1807770766'
 global.namebot = 'Kanna BOT'
-global.nameown = 'Letta - Sama'
+global.nameown = 'ᴹᴿ᭄-ᴛͦɪᷫsᷫᴜͥᴅͨᴇͥᴍᷧᴏᷝɴོ'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6283143393763'],
-  ['6285712420674'],
-  ['18126338970'],
-  ['62831433937633', 'LETTA ! 🐰', true]
+  ['1807770766'],
+  ['1807770766'],
+  ['1807770766'],
+  ['1807770766', 'LETTA ! 🐰', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -175,8 +176,8 @@ global.htjava = '⫹⫺'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = '.'
-global.stickauth = `☂︎\n𝗞\na\nn\nn\na\n-\n𝗕\n𝗢\n𝗧\n✦\n\n⫹⫺ Whatsapp BOT\nwa.me/${global.nomorbot}`
+global.stickpack = 'ᴹᴿ᭄ᴛͦɪᷫsᷫᴜͥᴅͨᴇͥᴍᷧᴏᷝɴོ.ᴹᴿ᭄ᴛͦɪᷫsᷫᴜͥᴅͨᴇͥᴍᷧᴏᷝɴོ'
+global.stickauth = `☂︎\nᴹᴿ᭄ᴛͦɪᷫsᷫᴜͥᴅͨᴇͥᴍᷧᴏᷝɴོ\n\n-\n𝗕\n𝗢\n𝗧\n✦\n\n⫹⫺ Whatsapp BOT\nwa.me/${global.nomorbot}`
 
 global.multiplier = 38 // The higher, The harder levelup
 
