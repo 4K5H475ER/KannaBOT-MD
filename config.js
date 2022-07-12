@@ -45,33 +45,33 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig  ='https://instagram.com/__.iam_akshay.__?igshid=YmMyMTA2M2Y='
+global.sig  ='https://instagram.com/__akshay__ganz__?igshid=YmMyMTA2M2Y='
 global.sgh = 'https://github.com/4K5H475ER'
 global.sgc = 'https://chat.whatsapp.com/Idb23y8zNaGIOIfbRUBnm6'
 global.sdc = 'https://discord.gg'
 global.snh = 'https://nhentai.net/g/365296/'
 
 /*============== PAYMENT ==============*/
-global.pdana = '1807770766'
-global.povo = '1807770766'
-global.pgopay = '1807770766'
-global.ppulsa = '1807770766'
-global.ppulsa2 = '1807770766'
+global.pdana = '18078086864'
+global.povo = '18078086864'
+global.pgopay = '18078086864'
+global.ppulsa = '18078086864'
+global.ppulsa2 = '18078086864'
 global.psaweria = 'https://saweria.com'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '1807770766'
-global.nomorown = '1807770766'
+global.nomorbot = '18078086864'
+global.nomorown = '18078086864'
 global.namebot = 'Kanna BOT'
 global.nameown = 'ᴹᴿ᭄-ᴛͦɪᷫsᷫᴜͥᴅͨᴇͥᴍᷧᴏᷝɴོ'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['1807770766'],
-  ['1807770766'],
-  ['1807770766'],
-  ['1807770766', 'LETTA ! 🐰', true]
+  ['18078086864'],
+  ['18078086864'],
+  ['18078086864'],
+  ['18078086864', 'LETTA ! 🐰', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
